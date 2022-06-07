@@ -1,0 +1,44 @@
+{
+    "data":[
+        {
+      "question": "Quelle est l'équipe qui a gagné la coupe du monde 2002 ?",
+      "choices": ["Bresil", "France", "Espagne", "Allemagne"],
+      "answer": "Bresil"
+    },
+    {
+      "question": "Quel est le seul joueur qui a gagné une coupe du monde à 18 ans ?",
+      "choices": ["Maradona", "Madjer", "Pele", "Ronaldo"],
+      "answer": "Pele"
+    },
+    {
+      "question": "Quelle est l'équipe qui a gagné la ligue des champions 14 fois ?",
+      "choices": ["Liverpool", "AC Milan", "Real Madrid", "Barcelone"],
+      "answer": "Real Madrid"
+    },
+    {
+      "question": "Quel est le joueur qui gagne le ballon d'or 2008 ?",
+      "choices": ["Kaka", "C.Ronaldo", "Messi", "Neymar"],
+      "answer": "C.Ronaldo"
+    },
+    {
+      "question": "Qui a gagné 4 fois d'affilé le ballon d'or ?",
+      "choices": [" CR7 ", " Messi" , " Neymar ", " Bale "],
+      "answer": "Messi"
+    },
+    {
+      "question": "Quelle est l'équipe la meilleure du monde ?",
+      "choices": ["Bayern Munich", "AC Milan", "Barcelone", "Real Madrid"],
+      "answer": "Real Madrid"
+    },
+    {
+      "question": "Quel pays avait gagné la coupe du monde 2006 ?",
+      "choices": ["Italie", "Allemagne", "Bresil", "France"],
+      "answer": "Italie"
+    },
+    {
+      "question": "Quel est le pays qui a le plus d'étoiles ?",
+      "choices": ["Bresil", "Pays-Bas", "France", "Italie"],
+      "answer": "Bresil"
+    }
+    ]
+}
