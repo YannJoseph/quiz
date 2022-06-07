@@ -22,13 +22,8 @@
     },
     {
       "question": "Qui a gagné 4 fois d'affilé le ballon d'or ?",
-      "choices": [" CR7 ", " Messi" , " Neymar ", " Bale "],
+      "choices": ["CR7", "Messi" , "Neymar", "Bale"],
       "answer": "Messi"
-    },
-    {
-      "question": "Quelle est l'équipe la meilleure du monde ?",
-      "choices": ["Bayern Munich", "AC Milan", "Barcelone", "Real Madrid"],
-      "answer": "Real Madrid"
     },
     {
       "question": "Quel pays avait gagné la coupe du monde 2006 ?",
