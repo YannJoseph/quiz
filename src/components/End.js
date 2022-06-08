@@ -13,6 +13,7 @@ const End = ({results, data, onReset, onAnswersCheck, time}) => {
             }
         });
         setCorrectAnswers(correct)
+        // eslint-disable-next-line
     }, [] );
 
   return (
